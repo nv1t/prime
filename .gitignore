@@ -10,3 +10,12 @@
 *.lai
 *.la
 *.a
+
+# Compiled binaries
+
+*.run
+*.out
+
+# Vim files
+
+*.swp
